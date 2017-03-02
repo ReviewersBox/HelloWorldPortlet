@@ -1,0 +1,6 @@
+org\jasig\portlet\hello\mvc\portlet\MainController.class
+org\jasig\portlet\hello\mvc\MinimizedStateHandlerInterceptor.class
+org\jasig\portlet\hello\mvc\portlet\HelpController.class
+org\jasig\portlet\hello\mvc\IViewSelector.class
+org\jasig\portlet\hello\mvc\portlet\EditController.class
+org\jasig\portlet\hello\mvc\ThemeNameViewSelectorImpl.class

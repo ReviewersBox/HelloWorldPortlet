@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: edalquist
+Build-Jdk: 1.6.0_26
+Specification-Title: Resource Server Content
+Specification-Version: 1.0.23
+Specification-Vendor: Jasig
+Implementation-Title: Resource Server Content
+Implementation-Version: 1.0.23
+Implementation-Vendor-Id: org.jasig.resourceserver
+Implementation-Vendor: Jasig
+
